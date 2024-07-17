@@ -11,7 +11,8 @@ __________________________________________________________
    
 ● Breve y descriptivo.
 
-3. Introducción
+
+2. Introducción
    
 ● Contexto del Problema: Describir brevemente el problema o
 análisis a realizar.
@@ -22,7 +23,9 @@ interesante este problema/tema.
 ● Objetivos del Proyecto: Definir claramente qué se busca
 lograr con este proyecto.
 
-5. Metodología
+
+3. Metodología
+ 
 ● Datos Utilizados: Describir las fuentes de datos y su
 relevancia.
 
@@ -34,19 +37,26 @@ utilizados.
 se llevó a cabo el proyecto, incluyendo la limpieza de datos,
 análisis exploratorio, modelado, etc.
 
-7. Resultados
+
+4. Resultados
+
 ● Presentación de Resultados: Mostrar los resultados
 obtenidos (puede incluir gráficos, tablas, etc.).
+
 ● Interpretación: Explicar qué significan estos resultados en el
 contexto del problema.
 
-8. Discusión
+
+5. Discusión
+   
 ● Comparación con objetivos: Evaluar en qué medida se
 cumplieron los objetivos planteados.
+
 ● Desafíos y Limitaciones: Discutir cualquier desafío
 enfrentado y las limitaciones del proyecto.
 
-9. Conclusiones
+
+6. Conclusiones
 
 ● Reflexiones Finales: Recapitular los hallazgos principales y
 su importancia.
@@ -58,7 +68,8 @@ proyecto.
 ● Sugerencias para Futuras Investigaciones: Propuestas
 para expandir o continuar el trabajo.
 
-10. Entrega de Código y Documentación
+
+7. Entrega de Código y Documentación
 
 ● Enlace a Google Colab: Proporcionar el enlace al Google
 Colab donde se realizó el trabajo.
@@ -66,6 +77,7 @@ Colab donde se realizó el trabajo.
 ● Documentación del Código: Asegurarse de que el código
 esté bien documentado y comentado.
 
-11. Referencias
+
+8. Referencias
 
 ● Citar todas las fuentes de datos, bibliografía y recursos utilizados.
